@@ -3,7 +3,7 @@ LAMP Server Based Cascading Menu with Drag-and-Drop Organization
 
 
 I was trying to find a good MySQL based cascading menu..  I couldn't find one, so I put this together.
-I'm an old sequential php developer so my php may be a bit antiquated.
+I'm an OLD sequential php developer so my php may be a bit antiquated.
 
 NECESSARY TOOLS
 
