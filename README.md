@@ -1,2 +1,19 @@
 # DDrop_Menu
 LAMP Server Based Cascading Menu with Drag-and-Drop Organization
+
+
+I was trying to find a good MySQL based cascading menu..  I couldn't find one, so I put this together.
+I'm an old sequential php developer so my php may be a bit antiquated.
+
+NECESSARY TOOLS
+
+	-LAMP SERVER (or any database driven page)
+	-jquery capability
+	
+	
+INSTALLATION
+
+1. Clone the directory to your server.
+2. Create a database.
+3. Edit "inc/connectvars.php" for your newly created database.
+4. Go to the page and play.
