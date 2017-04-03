@@ -25,7 +25,7 @@ print("<script src=\"http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-
  print("  <script type=\"text/javascript\" src=\"js/jquery-ui-1.12.1.custom/jquery-ui.js\"></script>\n");
  
   print("  <script type=\"text/javascript\" src=\"http://code.jquery.com/jquery-2.1.1.min.js\"></script>\n");
- print("  <script type=\"text/javascript\" src=\"".HOME."js/jquery-ui-1.12.1.custom/jquery-ui.js\"></script>\n");
+ print("  <script type=\"text/javascript\" src=\"js/jquery-ui-1.12.1.custom/jquery-ui.js\"></script>\n");
 
 
  printf("<style>
