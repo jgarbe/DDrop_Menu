@@ -7,7 +7,7 @@
 
 
  
-require_once('inc/appvars.php');
+
 require_once('inc/connectvars.php');
 
 print("<html>\n");
