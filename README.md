@@ -9,7 +9,7 @@ NECESSARY TOOLS
 
 	-LAMP SERVER (or any database driven page)
 	-jquery capability
-	
+
 	
 INSTALLATION
 
@@ -17,3 +17,5 @@ INSTALLATION
 2. Create a database.
 3. Edit "inc/connectvars.php" for your newly created database.
 4. Go to the page and play.
+	NOTE:  Please feel free to use your own JQuery-UI script, but I included my own build for Demo purposes.
+			https://jqueryui.com/
