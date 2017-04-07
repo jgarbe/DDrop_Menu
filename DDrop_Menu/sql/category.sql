@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS `category` (
 
 
 --
--- Dumping data for table `user_status`
+-- Dumping data for table `category`
 --
 
 INSERT INTO `category` (`category_id`, `category_name`) VALUES
